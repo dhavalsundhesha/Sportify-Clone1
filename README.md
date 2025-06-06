@@ -17,6 +17,6 @@ Music player controls (Play/Pause, Skip, Volume)
 ,Album art placeholder
 
 # Author
-Your Name:dhavalsundhesha0059
+Name:dhavalsundhesha0059
 
 
