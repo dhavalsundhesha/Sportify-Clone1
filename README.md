@@ -1,5 +1,5 @@
 # Spotify Web Player - Frontend Clone
-A static UI clone of Spotify Web Player built using HTML & CSS. 
+A static UI clone of Spotify Web Player built using HTML & CSS and boostack. 
 
 # technologies Used
 Frontend: HTML, CSS,boostack
@@ -12,12 +12,12 @@ Git & GitHub
 
 #  Features:
 Music player controls (Play/Pause, Skip, Volume)
-Sidebar navigation
-Playlist display
-Album art placeholder
+,Sidebar navigation
+,Playlist display
+,Album art placeholder
 
 # Author
 Your Name:dhavalsundhesha0059
-GitHub:dhavalsundhesha
+,GitHub:dhavalsundhesha
 
 Project Link:
