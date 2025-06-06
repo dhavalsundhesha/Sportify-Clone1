@@ -18,6 +18,5 @@ Music player controls (Play/Pause, Skip, Volume)
 
 # Author
 Your Name:dhavalsundhesha0059
-,GitHub:dhavalsundhesha
 
-Project Link:
+
